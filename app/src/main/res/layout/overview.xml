@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation = "vertical"
+  android:background="@color/overview_background">
+  	 <TableLayout
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:layout_gravity="center"
+		android:stretchColumns="*" >
+		<TableRow>
+			<ImageButton
+			android:id ="@+id/supply_button"
+			android:src ="@drawable/power"
+			android:scaleType="fitXY"
+			android:layout_width ="150dip"
+  			android:layout_height ="150dip"
+  			android:layout_marginTop="60dip"  			 			
+  			/>
+  			<ImageButton
+  			android:id ="@+id/bb_button"
+  			android:src ="@drawable/bb"
+  			android:scaleType = "fitXY"
+			android:layout_width ="150dip"
+  			android:layout_height ="150dip"
+  			android:layout_marginTop="60dip"    			
+  			/>
+  			<ImageButton
+  			android:id = "@+id/oscilloscope_button"
+  			android:src = "@drawable/oscilloscope"
+  			android:scaleType ="fitXY"
+  			android:layout_width ="150dip"
+  			android:layout_height ="150dip"
+  			android:layout_marginTop="60dip"    			
+  			/>
+		</TableRow>			
+	</TableLayout>
+  		
+  		
+</LinearLayout>

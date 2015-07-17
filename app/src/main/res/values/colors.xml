@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<color name="background">#3500ffff</color>
+		<color name="overview_background">#ffffffff</color>
+		<color name="transparent_white">#88ffffff</color>
+		<color name="textViewColor">#79292a</color>		
+	</resources>

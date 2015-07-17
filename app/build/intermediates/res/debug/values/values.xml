@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Oy/AndroidStudioProjects/iLabClient/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background">#3500ffff</color>
+    <color name="overview_background">#ffffffff</color>
+    <color name="textViewColor">#79292a</color>
+    <color name="transparent_white">#88ffffff</color>
+    <!-- From: file:/C:/Users/Oy/AndroidStudioProjects/iLabClient/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_label">About</string>
+    <string name="about_text">\
+		A mobile client for the iLAB OAU Op-Amp Laboratory 
+		</string>
+    <string name="about_title">About Op-Amp</string>
+    <string name="app_name">iClient</string>
+    <string name="circuit_title"> Breadboard </string>
+    <string name="exit_label">Exit</string>
+    <string name="main_title">Op-Amp Lab Mobile</string>
+    <string name="new_game_label">Start</string>
+    <string name="overview_title">Overview</string>
+    <string name="verify">Verify</string>
+</resources>
